@@ -1,5 +1,8 @@
 ﻿namespace Ueb08d_Sortieren_Fruechte
 {
+    /// <summary>
+    /// Klasse Frucht
+    /// </summary>
     public class Frucht
     {        
         /// <summary>
